@@ -1,0 +1,16 @@
+{
+  "id": "1546956",
+  "name": "网易考拉",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "594067",
+      "name": "ARROW",
+      "font_class": "arrow",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    }
+  ]
+}
